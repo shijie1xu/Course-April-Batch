@@ -1,0 +1,15 @@
+
+MVC-HOMEWORK::
+
+Employee  + Department
+
+1) Define two controllers, one is EmployeeController and One is DepartmentController
+and handle CRUD for both of them
+one use @controller  and one use @restcontroller
+
+2) initialize model in EmployeeDAO and DepartmentDAO classes
+and initalize the model using static block
+
+3) define Employee and Department model to host data
+
+4) use Postman to test your rest API...
