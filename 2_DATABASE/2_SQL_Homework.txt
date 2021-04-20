@@ -1,0 +1,44 @@
+ 
+
+ 1. Display unique Jobs from employee table
+ 2. List the 'clerk' salarys in descending order within each department
+ 3. Display the name and hiredate of all 'manager's
+ 4. List the emp who are either ‘CLERK’ or ‘ANALYST’ in the desc order
+ 5. List the emps whose annul sal ranging from 22000 and 45000
+ 6. List all the emps EXCEPT ‘president’ & ‘manager’ in asc order of salaries
+ 7. List the details of the emps whose salaries more than the employee BLAKE
+ 8. List the details of the emps whose job is same as ALLEN.
+ 9. List the emps whose Sal is same as FORD or SMITH in desc order of Sal.
+ 10. List the emps who are senior to their own MGRs
+ 11. Find the highest paid employee of EACH department.
+ 12. List the employee name with their department name
+ 13. List the department without employees
+ 14. Display the 2nd highest salary of all employees (TOP or LIMIT)
+ 15. Display the 3rd highest salary of all employees
+ 16. Find the total salary paid to each Job type
+ 17. Find the average salary paid to each department
+ 18. Find the average salary paid to each department, show only when average is higher than 2000;  (GROUP BY + HAVING)
+ 19. Display number of emps of each job type in each department along with department name
+ 20. List the dept name and location in which at least 4 emps are working.
+
+ 21. Display department name, location, number of emps where at least two emps are ‘CLERK’
+
+ 22. Find the department that has maximum number of employees
+ 23. List employees whose names contains letter 'A'
+ 24. List the emps those who joined in company before 15th of the month.
+ 25. Find the mean salary paid to each department, show only when mean salary is higher than 1000
+ 26. Display emp information in format of "SMITH(clerk)"
+ 27. Find all the emps and their salaries who earn minimum salary in their department, display result in salary ascending order
+
+ 28. Find out the most recently hired emps in each dept order by hiredate
+
+ 29. List the emps who joined in year 81.
+
+ 30. Consider hiredate before 05-01-1981 as senior, after it as junior, count the number
+ of seniors and juniors in each department. Your result should look like, department name, senior count, junior count
+
+
+ 31. Write a Stored Procedure spTotalSalary - it's input is department name, output should be the total salary of the department.
+ 32. Write a JDBC program to get List of Employees based on input Job type use Statement
+ 33. Write a JDBC program to get List of Employees based on input Job type use PreparedStatement
+
