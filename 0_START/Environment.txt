@@ -1,0 +1,28 @@
+1. Prepare 3 -4 projects in 1-2 weeks.
+
+   >> From: 1) undergraduate/graduate thesis
+            2) any projects you did in school
+            3) your intern, work experience
+            4) you learnt by yourself
+            5) something you are interested
+
+2. Algorithms 
+   >> If you 1) have not done any leetcode problems
+	        --- category: string, collection, linkedlist
+                --- algo: brutal force, two pointer, binary search, heap, BFS
+                --- Go to best solution directly *
+                --- I have the problems 100.
+   >> If you 2) have done some with other language, not java
+		---- repeat what you have done with Java
+
+3. Environment Setup
+1) IntelliJ - Ultimate version (free with Student account)
+2) Github + Git
+3) * Maven - comes with Intellij - Need setup to windows env
+4) Java 8 - JDK / JRE
+5) Tomcat 7/8
+6) * Sublime Text
+7) MySQL
+
+
+
