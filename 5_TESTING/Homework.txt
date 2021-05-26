@@ -1,0 +1,5 @@
+1. Test the REGISTER flow with SELENIUM
+2. Test the REGISTER flow with CUCUMBER
+3. create a JUNIT test case to test a service fuction
+4. create a MOCKITO test case to test a JPA function
+5. create a MOCKMVC test case to test REST API.

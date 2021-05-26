@@ -1,0 +1,7 @@
+Agile
+
+Sprint: https://www.youtube.com/watch?v=9TycLR0TqFA
+Jira: https://www.youtube.com/watch?v=foWlWD__5m4
+
+CICD
+Jenkins: https://www.youtube.com/watch?v=ndLbn24OwQg
